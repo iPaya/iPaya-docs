@@ -1,5 +1,7 @@
 # Yii 2 钉钉群机器人日志报警
 
+项目主页: [iPaya/yii2-dingtalk-log](https://github.com/iPaya/yii2-dingtalk-log)
+
 ## 安装
 
 使用 `composer` 安装
